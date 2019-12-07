@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Farm Type Display",
+  "Author": "marikaefer",
+  "Version": "1.0.0",
+  "Description": "shows the type of farm next to farm name on load menu",
+  "UniqueID": "marikaefer.FarmTypeDisplay",
+  "EntryDll": "FarmTypeDisplay.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ ]
+}
